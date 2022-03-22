@@ -1,9 +1,10 @@
-### E ai? sou o Danilo 👋
+### E ai? ME chamo Danilo!👋
 
-
+## <img width="40" alt="about" src="https://cdn-icons-png.flaticon.com/512/3176/3176151.png"> SOBRE MIM
 
 - 🔭 Sou estudante de Economia
-- 🌱 Iniciando meus estudos com HTML, CSS e JavaScript
+- 🌱 Iniciando meus estudos em HTML, CSS e JavaScript
+
 
 <div align="center">
   <a href="https://github.com/daniloafigueredo">
