@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/daniloafigueredo">
-    <img align="right" alt="Danilo-gif" height="300" src="https://media4.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
+    <img align="right" alt="Danilo-gif" height="200" src="https://media4.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 </div>
   
 ## **Linguagens e Ferramentas:**  
