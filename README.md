@@ -1,6 +1,5 @@
-### E ai? ME chamo Danilo!👋
+### <img width="18" alt="about" src="https://cdn-icons-png.flaticon.com/512/3176/3176151.png"> E ai? Me chamo Danilo!👋
 
-## <img width="40" alt="about" src="https://cdn-icons-png.flaticon.com/512/3176/3176151.png"> SOBRE MIM
 
 - 🔭 Sou estudante de Economia
 - 🌱 Iniciando meus estudos em HTML, CSS e JavaScript
