@@ -22,6 +22,8 @@
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloafigueredo&theme=dracula" />
 </a>
+  
+##
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=daniloafigueredo&show_icons=true&theme=dracula" alt="Guru's github stats"/>
 </a>
