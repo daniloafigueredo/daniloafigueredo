@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/daniloafigueredo">
-    <img align="right" alt="Danilo-gif" height="200" src="https://media4.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
+    <img align="right" alt="Danilo-gif" height="250" src="https://media4.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 </div>
   
 ## **Linguagens e Ferramentas:**  
@@ -19,6 +19,7 @@
 </div> 
   
 ##
+  <!--
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloafigueredo&theme=dracula" />
 </a>
@@ -27,7 +28,7 @@
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=daniloafigueredo&show_icons=true&theme=dracula" alt="Guru's github stats"/>
 </a>
-  
+  -->
 ## **Vamos nos Conectar:**
 <div> 
  
@@ -36,5 +37,13 @@
   <a href="https://www.linkedin.com/in/danilofigueredo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/daniloafigueredo/daniloafigueredo/blob/output/github-contribution-grid-snake.svg)
+  
+   <a href="https://github.com/daniloafigueredo">
+    <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api?username=daniloafigueredo&show_icons=true&hide_title=true&theme=dracula"/>
+  </a>
+  <a>
+    <img align="center" height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daniloafigueredo&layout=compact&langs_count=8&theme=dracula&hide_title=true"/>
+  </a>
+</div>
  
 </div>
