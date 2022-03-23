@@ -39,12 +39,21 @@
   ![Snake animation](https://github.com/daniloafigueredo/daniloafigueredo/blob/output/github-contribution-grid-snake.svg)
   
   ---
+  <!--
    <a href="https://github.com/daniloafigueredo">
     <img align="cnter" height="140em" src="https://github-readme-stats.vercel.app/api?username=daniloafigueredo&show_icons=true&hide_title=true&theme=dracula"/>
   </a>
   <a>
     <img align="center" height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daniloafigueredo&layout=compact&langs_count=8&theme=dracula&hide_title=true"/>
   </a>
+-->
+  <div align="center" style="display: inline_block">
+  <a align="center" href="https://github.com/daniloafigueredo">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=daniloafigueredo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloafigueredo&layout=compact&langs_count=10&theme=dracula"/>
+  </a>
+</div>
+
 </div>
  
 </div>
