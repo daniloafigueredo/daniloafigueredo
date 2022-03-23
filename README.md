@@ -1,9 +1,7 @@
-### <img width="18" alt="about" src="https://cdn-icons-png.flaticon.com/512/3176/3176151.png"> E ai? Me chamo Danilo!👋
-
+### <h1 align="center"> <img width="35" alt="about" src="https://cdn-icons-png.flaticon.com/512/3176/3176151.png"> Olá! Me chamo Danilo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 - 📊 Sou estudante de Economia.
 - 💻 Iniciando meus estudos em HTML, CSS e JavaScript.
-
 
 <div align="center">
   <a href="https://github.com/daniloafigueredo">
@@ -17,18 +15,8 @@
   <img align="center" alt="Danilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Danilo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div> 
-  
+
 ##
-  <!--
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloafigueredo&theme=dracula" />
-</a>
-  
-##
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=daniloafigueredo&show_icons=true&theme=dracula" alt="Guru's github stats"/>
-</a>
-  -->
 ## **Vamos nos Conectar:**
 <div> 
  
@@ -38,19 +26,12 @@
  
   ![Snake animation](https://github.com/daniloafigueredo/daniloafigueredo/blob/output/github-contribution-grid-snake.svg)
   
-  ---
-  <!--
-   <a href="https://github.com/daniloafigueredo">
-    <img align="cnter" height="140em" src="https://github-readme-stats.vercel.app/api?username=daniloafigueredo&show_icons=true&hide_title=true&theme=dracula"/>
-  </a>
-  <a>
-    <img align="center" height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daniloafigueredo&layout=compact&langs_count=8&theme=dracula&hide_title=true"/>
-  </a>
--->
+ ---
+  
   <div align="center" style="display: inline_block">
   <a align="center" href="https://github.com/daniloafigueredo">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=daniloafigueredo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloafigueredo&layout=compact&langs_count=10&theme=dracula"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=daniloafigueredo&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloafigueredo&layout=compact&langs_count=10&theme=react&hide_border=true&bg_color=0D1117"/>
   </a>
 </div>
 
