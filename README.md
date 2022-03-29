@@ -30,7 +30,7 @@
   
   <div align="center" style="display: inline_block">
   <a align="center" href="https://github.com/daniloafigueredo">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=daniloafigueredo&show_icons=true&theme=white&hide_border=true&bg_color=0D1117"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=daniloafigueredo&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloafigueredo&layout=compact&langs_count=10&theme=react&hide_border=true&bg_color=0D1117"/>
   </a>
 </div>
